@@ -8,5 +8,6 @@ namespace Aroma.BusinessLogic.Interfaces
 {
     public interface ISession
     {
+        //uktuktujt
     }
 }
