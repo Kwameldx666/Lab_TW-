@@ -11,7 +11,7 @@ namespace Aroma.BusinessLogic.Interfaces
     {
         List<Product> GetAllProducts();
         Product GetProductById(int productId);
-        void AddProduct(Product product);
+        void AddProduct(Product product);//добавить продукт 
         void UpdateProduct(Product product);
         void DeleteProduct(int productId);
 
